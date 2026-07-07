@@ -1,4 +1,4 @@
-# 13MBID_Practica01
+# 13MBID_Practica1
 
 Repositorio de la práctica del máster.
 
